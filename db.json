@@ -1,0 +1,31 @@
+{
+  "competitors": [
+    { "id": "nimbus", "name": "Nimbus Intranet", "page_id": "" },
+    { "id": "corvid", "name": "Corvid Workspace", "page_id": "" },
+    { "id": "helio", "name": "Helio Comms", "page_id": "" },
+    { "id": "tandem", "name": "Tandem Hub", "page_id": "" },
+    { "id": "quarry", "name": "Quarry Social", "page_id": "" }
+  ],
+  "events": [
+    { "id": "1", "competitor_id": "nimbus", "source_type": "competitor_news", "title": "Nimbus launches AI search", "body": "Nimbus Intranet released AI search across SharePoint and Google Drive. Available on the Enterprise plan only.", "url": "https://example.com/nimbus/ai-search", "updated_at": "2026-10-01T09:00:00Z" },
+    { "id": "2", "competitor_id": "corvid", "source_type": "competitor_news", "title": "Corvid raises prices", "body": "Corvid Workspace moved its Business plan from 6 to 8 USD per user per month for new customers.", "url": "https://example.com/corvid/pricing", "updated_at": "2026-10-02T10:30:00Z" },
+    { "id": "3", "competitor_id": "helio", "source_type": "competitor_news", "title": "Helio adds frontline app", "body": "Helio Comms shipped a mobile app for frontline workers with shift schedules and offline reading.", "url": "https://example.com/helio/frontline", "updated_at": "2026-10-03T08:15:00Z" },
+    { "id": "4", "competitor_id": "tandem", "source_type": "competitor_news", "title": "Tandem partners with Slack", "body": "Tandem Hub announced a Slack integration that posts intranet news to Slack channels.", "url": "https://example.com/tandem/slack", "updated_at": "2026-10-04T14:00:00Z" },
+    { "id": "5", "competitor_id": "quarry", "source_type": "competitor_news", "title": "Quarry new CEO", "body": "Quarry Social appointed Dana Reyes as CEO. The founder becomes Chief Product Officer.", "url": "https://example.com/quarry/ceo", "updated_at": "2026-10-05T07:45:00Z" },
+    { "id": "6", "competitor_id": "nimbus", "source_type": "competitor_news", "title": "Nimbus ISO 27001", "body": "Nimbus Intranet obtained ISO 27001 certification for its EU data centers.", "url": "https://example.com/nimbus/iso", "updated_at": "2026-10-06T11:00:00Z" },
+    { "id": "7", "competitor_id": "corvid", "source_type": "competitor_news", "title": "Corvid drops on-premise", "body": "Corvid Workspace will end its on-premise offer in June 2027. Customers must move to the cloud.", "url": "https://example.com/corvid/on-prem", "updated_at": "2026-10-07T16:20:00Z" },
+    { "id": "8", "competitor_id": "helio", "source_type": "competitor_news", "title": "Helio targets retail", "body": "Helio Comms says retail is now its main market, with 40 new retail customers this year.", "url": "https://example.com/helio/retail", "updated_at": "2026-10-08T09:10:00Z" },
+    { "id": "9", "competitor_id": "tandem", "source_type": "competitor_news", "title": "Tandem outage", "body": "Tandem Hub had a 6-hour outage in Europe. The company promised service credits.", "url": "https://example.com/tandem/outage", "updated_at": "2026-10-09T13:30:00Z" },
+    { "id": "10", "competitor_id": "quarry", "source_type": "competitor_news", "title": "Quarry free plan", "body": "Quarry Social launched a free plan for teams of up to 50 users.", "url": "https://example.com/quarry/free", "updated_at": "2026-10-10T10:00:00Z" },
+    { "id": "11", "competitor_id": "nimbus", "source_type": "competitor_news", "title": "Nimbus AI search for all", "body": "Nimbus Intranet made AI search available on all plans, not only Enterprise.", "url": "https://example.com/nimbus/ai-search-all", "updated_at": "2026-10-12T09:00:00Z" },
+    { "id": "12", "competitor_id": "corvid", "source_type": "competitor_news", "title": "Corvid keeps on-premise", "body": "A Corvid Workspace sales rep told a prospect that on-premise remains available after 2027.", "url": "https://example.com/corvid/on-prem-rumor", "updated_at": "2026-10-13T15:00:00Z" },
+    { "id": "13", "competitor_id": "helio", "source_type": "competitor_news", "title": "Helio acquires Pulsey", "body": "Helio Comms acquired Pulsey, a startup that runs employee surveys.", "url": "https://example.com/helio/pulsey", "updated_at": "2026-10-14T08:00:00Z" },
+    { "id": "14", "competitor_id": "tandem", "source_type": "competitor_news", "title": "Tandem Teams app", "body": "Tandem Hub released a Microsoft Teams app with news, search and people directory.", "url": "https://example.com/tandem/teams", "updated_at": "2026-10-15T12:00:00Z" },
+    { "id": "15", "competitor_id": "quarry", "source_type": "competitor_news", "title": "Quarry layoffs", "body": "Quarry Social cut 15 percent of its staff, mostly in sales.", "url": "https://example.com/quarry/layoffs", "updated_at": "2026-10-16T17:00:00Z" },
+    { "id": "16", "competitor_id": "nimbus", "source_type": "competitor_news", "title": "Nimbus wins bank deal", "body": "Nimbus Intranet signed a 30,000-seat deal with a European bank.", "url": "https://example.com/nimbus/bank", "updated_at": "2026-10-18T10:00:00Z" },
+    { "id": "17", "competitor_id": "corvid", "source_type": "competitor_news", "title": "Corvid AI assistant", "body": "Corvid Workspace announced an AI assistant in beta, priced at 3 USD per user per month.", "url": "https://example.com/corvid/assistant", "updated_at": "2026-10-20T09:30:00Z" },
+    { "id": "18", "competitor_id": "helio", "source_type": "competitor_news", "title": "Helio price cut", "body": "Helio Comms lowered its frontline plan to 2 USD per user per month.", "url": "https://example.com/helio/price", "updated_at": "2026-10-22T11:45:00Z" },
+    { "id": "19", "competitor_id": "tandem", "source_type": "competitor_news", "title": "Tandem SOC 2", "body": "Tandem Hub completed its SOC 2 Type II audit.", "url": "https://example.com/tandem/soc2", "updated_at": "2026-10-24T14:10:00Z" },
+    { "id": "20", "competitor_id": "quarry", "source_type": "competitor_news", "title": "Quarry free plan limit", "body": "Quarry Social lowered its free plan to teams of up to 25 users.", "url": "https://example.com/quarry/free-update", "updated_at": "2026-10-26T08:30:00Z" }
+  ]
+}

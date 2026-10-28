@@ -1,10 +1,10 @@
 {
   "competitors": [
-    { "id": "nimbus", "name": "Nimbus Intranet", "page_id": "" },
-    { "id": "corvid", "name": "Corvid Workspace", "page_id": "" },
-    { "id": "helio", "name": "Helio Comms", "page_id": "" },
-    { "id": "tandem", "name": "Tandem Hub", "page_id": "" },
-    { "id": "quarry", "name": "Quarry Social", "page_id": "" }
+    { "id": "nimbus", "name": "Nimbus Intranet", "page_id": "1356327616139441" },
+    { "id": "corvid", "name": "Corvid Workspace", "page_id": "2048401536037276" },
+    { "id": "helio", "name": "Helio Comms", "page_id": "6396080579448320" },
+    { "id": "tandem", "name": "Tandem Hub", "page_id": "3381331793120002" },
+    { "id": "quarry", "name": "Quarry Social", "page_id": "2220372891650028" }
   ],
   "events": [
     { "id": "1", "competitor_id": "nimbus", "source_type": "competitor_news", "title": "Nimbus launches AI search", "body": "Nimbus Intranet released AI search across SharePoint and Google Drive. Available on the Enterprise plan only.", "url": "https://example.com/nimbus/ai-search", "updated_at": "2026-10-01T09:00:00Z" },
